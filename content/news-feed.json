@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T15:55:22Z",
+  "fetchedAt": "2026-11-01T16:58:01Z",
   "itemCount": 36,
   "items": [
     {
@@ -8,6 +8,13 @@
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
+    },
+    {
+      "title": "The Canadian Pediatric Imaging Platform (C-PIP) Reference Sample: Neuroimaging Protocol and Cross-site Validation for Harmonized Multimodal Pediatric Imaging",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761379v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
       "title": "Longitudinal persistence of EEG brain fingerprints:phase and complex coherency geometry across sessions andfunctional states",
@@ -36,6 +43,55 @@
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
+    },
+    {
+      "title": "Alterations in default mode network functional connectivity in semantic dementia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964667/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Rapid estimation of photon measurement density functions using a deep convolutional neural network for functional near-infrared spectroscopy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964375/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Robustness of MEG source imaging in pediatric patients with surgical cavities: A case series.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953325/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Human iEEG recordings during audiovisual speech violations support and extend predictive routing models",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.760243v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Recurrent Spiking Neural Networks for Continuous Motor Control: A Biologically Plausible Model of Motor Cortex",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.756490v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Structural Evolution of Neural Networks during Zebrafish Early Development",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762732v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "An atlas of the aging glycoproteome reveals how glycosylation modulates autoantibody binding in the brain",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762617v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
       "title": "HERC1 Loss of Function Causes a Developmental Disorder with Impaired Hippocampal Function",
@@ -80,25 +136,11 @@
       "filter": "nih"
     },
     {
-      "title": "Pre-stress functional brain connectivity is associated with subsequent anxiety during war-related stress",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.24.761100v1?rss=1",
+      "title": "Benefit Expectations and Neuroprotective Prescribing for Acute Ischemic Stroke in China",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.29.26366879v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Spatially resolved single-cell atlas reveals cortical glial reactivity associated with regions of neuronal growth programs in both hemispheres after stroke",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761917v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Impact of heat and sex on embryonic brain growth in dragons with temperature induced sex-reversal (Pogona vitticeps, Lacertilia: Agamidae)",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761761v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Relative Importance of Positive and Potentially Traumatic Childhood Experiences in Explaining Multiple Sclerosis Symptoms",
@@ -199,70 +241,20 @@
       "filter": "neurology"
     },
     {
-      "title": "Lesions causing room tilt illusion link a cerebello-cingulate brain network to verticality perception",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.26.26365825v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Bern Sleep-Wake Registry: temporal extraction of comorbidities from unstructured clinical text using a large language model",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.25.26364496v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Functional Network Organization Underlying Individual Differences in False Feedback Susceptibility: A Graph Theoretical Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42963537/",
-      "date": "2026-11-01",
-      "source": "Human Brain Mapping",
+      "title": "Acute exercise for emotional pattern separation in youth with psychiatric symptoms and childhood adversity: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953727/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
       "filter": "neuroimaging"
     },
     {
-      "title": "State-dependent modulation of cross-area sensory processing in mouse neocortex",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763148v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "An expanded toolbox for genetic access to molecularly defined cortical intratelencephalic neuron subtypes",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.762849v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Multimodal profiling and intersectional genetics reveal CA1 border inhibitory neuron diversity and postnatal emergence of retrosplenial connectivity",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762784v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Connectivity predicts where computation forms and where it can be changed",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762656v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "From Images and Words to Modality-Independent Semantic Representations: When and Where They Emerge",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763035v1?rss=1",
+      "title": "Cortical long-range dynamics track excitation-inhibition balance across cognitive states and organizational principles",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763069v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     }
   ],
-  "authorItems": [
-    {
-      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
-      "date": "2026-01-01",
-      "journal": "Brain communications",
-      "source": "PubMed"
-    }
-  ],
+  "authorItems": [],
   "live": true
 }
