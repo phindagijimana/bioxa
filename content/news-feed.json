@@ -1,10 +1,17 @@
 {
-  "fetchedAt": "2026-11-03T18:11:01Z",
+  "fetchedAt": "2026-11-04T18:21:22Z",
   "itemCount": 36,
   "items": [
     {
-      "title": "Predicting cortical signal mixing in coarse-resolution fMRI: a forward-operator analysis of surface mapping and the conditional benefit of correction",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762317v1?rss=1",
+      "title": "Interpretable Machine Learning Links Group-Specific Plasma Proteomics to Regional Structural Neuroimaging in Alzheimer's Disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763368v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Characterising cortical perturbation-recovery dynamics using TMS-EEG: The Brain Dynamic Toolbox",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763068v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
@@ -31,74 +38,60 @@
       "filter": "neurology"
     },
     {
-      "title": "Physician Decision-Making in Acute Ischemic Stroke with and without a Guideline-Encoded Clinical Decision Support System",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.26.26366524v1?rss=1",
+      "title": "Contributions of Site Heterogeneity in Multi-site Brain-Phenotype Predictions",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763540v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "One digit too many: brain rhythms and autonomic responses at the limits of working memory capacity",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763481v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Lipidome of Compact Myelin from Cortical Regions of the Aging Murine Brain",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763492v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Connectivity of Implicit Statistical Learning Networks is Associated with Language Impairment Severity in Post-Stroke Aphasia",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763658v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Thalamic stereo-EEG detects sleep stages N2 and N3 with discrimination approaching scalp EEG",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763362v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Sex shapes plasma molecular signatures of dementia risk across APOE ε4 strata",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.02.26366836v1?rss=1",
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
     },
     {
-      "title": "Alterations in default mode network functional connectivity in semantic dementia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964667/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "Rapid estimation of photon measurement density functions using a deep convolutional neural network for functional near-infrared spectroscopy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964375/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "Robustness of MEG source imaging in pediatric patients with surgical cavities: A case series.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42953325/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "Socio-demographic gradients in traumatic brain injury disability, severity and nutrition: a two-level analysis of the Global Burden of Disease Study 2023 and NHANES 2011-2014",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762412v1?rss=1",
+      "title": "Validation of CSF αSyn-SAA in an autopsy cohort with whole-body assessment of Lewy pathology",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.02.26367119v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "A Comparison and Validation of BIDS Apps for Preprocessing of UCB-J PET data",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762181v1?rss=1",
+      "title": "Assessment of Dissemination in Time in Multiple Sclerosis Using a Single 3D T2-FLAIR magnetic resonance imaging Radiomic Signature",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.29.26364762v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Cognitive reserve depends on cortical neurochemistry to predict memory after partner-inflicted brain injury",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762370v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Dog and Human Brains Represent Human Emotional Bodies with Asymmetric Encoding of Happiness and Anger",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762252v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Embodied Dynamic Causal Modelling: Brain and Cardiac Effective Connectivity",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762241v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "The anti-dyskinetic and the anti-parkinsonian effects of sub-anesthetic ketamine are also present in female preclinical models",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762342v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Head-to-Head Comparison of Flortaucipir and MK6240 tau-PET to Detect Subtle Objective Cognitive Impairment in Clinically Unimpaired Individuals",
@@ -178,78 +171,85 @@
       "filter": "neurology"
     },
     {
-      "title": "Cervical lymph node B cell subset resists depletion and sustains lytic Epstein Barr-virus signature in patients with multiple sclerosis",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.25.26366311v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Corticospinal and Reticulospinal-Associated Measures in Chronic Ischemic Stroke: Associations with Upper Limb Function",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.26.26365898v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Direct measurement of motor unit twitch properties using routine clinical ultrasound and optical flow",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.10.26.26366517v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Acute exercise for emotional pattern separation in youth with psychiatric symptoms and childhood adversity: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42953727/",
-      "date": "2026-12-01",
-      "source": "NeuroImage",
-      "filter": "neuroimaging"
-    },
-    {
-      "title": "Povorcitinib for nonsegmental vitiligo: two randomized, controlled, phase 3 STOP-V trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972109/",
-      "date": "2026-11-01",
-      "source": "Nature Medicine",
-      "filter": "nature"
-    },
-    {
-      "title": "Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972108/",
-      "date": "2026-11-01",
-      "source": "Nature Medicine",
-      "filter": "nature"
-    },
-    {
-      "title": "Global, regional and national burden of cervical cancer in 1990-2023 with forecasts to 2050: a Global Burden of Disease study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972107/",
-      "date": "2026-11-01",
-      "source": "Nature Medicine",
-      "filter": "nature"
-    },
-    {
-      "title": "Intrinsic fluctuations modulate thalamic gating during the emergence of human conscious perception",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.761793v1?rss=1",
+      "title": "Inosine Triphosphate Pyrophosphatase as a Candidate Associated with White Matter Abnormalities in Chronic Heart Failure",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764123v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Neural transformation from image realism to perceived realness",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762323v1?rss=1",
+      "title": "Disentangling visual and motor contributions to continuous psychophysics",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763761v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Pain Matters: Nociceptive signaling drives neural encoding of inflammatory responses",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763662v1?rss=1",
+      "title": "Loneliness as a modulator of intersubject neural alignment across social and nonsocial contexts",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763905v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Circadian multimodal physiological, ocular and behavioural data from a 40-hour forced-desynchrony protocol",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762537v1?rss=1",
+      "title": "Disrupted mannosidase enzymes in C9orf72 ALS/FTD",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763135v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Context-dependent effects of ketamine on emotional evidence integration",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.30.762604v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Amnesia Induced by Suppressing the Focus of Internal Attention",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763713v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Neural dynamics become significantly faster and more nonlinear at the peak of information processing",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763548v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Connectome structure constrains neural activity across scales",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.762695v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Scn2a-deficient mice exhibit serotonergic dysfunction and altered behavioral responses to psilocybin",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764054v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "The behaviour bends, the code holds: working-memory category information in the multiple-demand network across graded interruption",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763342v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Integrative Transcriptomic Meta-Analysis Reveals SIRT1-SNCA Correlation in Parkinson's Disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763624v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Physical sensorimotor contingencies facilitate learning in monkeys",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763380v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
