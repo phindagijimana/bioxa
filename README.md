@@ -1,10 +1,10 @@
-# Dira Landing Site
+# Bioxa Landing Site
 
-This is a standalone landing site for **Dira (Translating Biomedical Research to Usable Tools)**.
+This is a standalone landing site for **Bioxa (Translating Biomedical Research to Usable Tools)**.
 
 ## What it does
 
-- shows Dira pages in order: `Home` → `R&D` (platforms NIR + installers on same page) → `Builder Review` → `Our Team` (team + contact) → `News`, plus `GitHub`
+- shows Bioxa pages in order: `Home` → `R&D` (platforms NIR + installers on same page) → `Builder Review` → `Our Team` (team + contact) → `News`, plus `GitHub`
 - lists NIR as one of the platform services
 - enforces a **pre-download license request form** before redirecting users to NIR downloads
 - collects:
@@ -78,4 +78,4 @@ If the public site looks outdated after a push, check the **Actions** tab for a 
 
 Your site URL will be:
 
-- `https://phindagijimana.github.io/dira/`
+- `https://phindagijimana.github.io/bioxa/`

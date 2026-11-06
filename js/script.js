@@ -1,5 +1,5 @@
-const RECOMMENDED_LINKS_KEY = "diraRecommendedLinks";
-const PLATFORM_LINK_SETS = "diraPlatformLinkSetsV1";
+const RECOMMENDED_LINKS_KEY = "bioxaRecommendedLinks";
+const PLATFORM_LINK_SETS = "bioxaPlatformLinkSetsV1";
 
 const PLATFORM_GATES = {
   "nir-desktop": {
@@ -43,17 +43,17 @@ function saveAllPlatformLinks(sets) {
 }
 
 function getLicenseServiceEndpoints() {
-  if (Array.isArray(window.DIRA_LICENSE_ENDPOINTS) && window.DIRA_LICENSE_ENDPOINTS.length) {
-    return window.DIRA_LICENSE_ENDPOINTS.filter(Boolean);
+  if (Array.isArray(window.BIOXA_LICENSE_ENDPOINTS) && window.BIOXA_LICENSE_ENDPOINTS.length) {
+    return window.BIOXA_LICENSE_ENDPOINTS.filter(Boolean);
   }
-  if (window.DIRA_LICENSE_ENDPOINT) {
-    return [window.DIRA_LICENSE_ENDPOINT];
+  if (window.BIOXA_LICENSE_ENDPOINT) {
+    return [window.BIOXA_LICENSE_ENDPOINT];
   }
   return [
     // Same-origin: when the site is served by the license backend (e.g. Railway),
     // this posts to the serving host with no hardcoded domain or CORS.
     "/api/license/request",
-    "https://dira.up.railway.app/api/license/request",
+    "https://bioxa.up.railway.app/api/license/request",
   ];
 }
 
@@ -161,7 +161,7 @@ async function submitLicenseRequest(event) {
     email: formData.get("email"),
     institution: formData.get("institution"),
     purpose: formData.get("purpose"),
-    source: "dira-landing",
+    source: "bioxa-landing",
     submittedAt: new Date().toISOString(),
   };
 
@@ -198,7 +198,7 @@ async function submitLicenseRequest(event) {
       throw lastErr || new Error("No reachable license service endpoint.");
     }
     const result = await response.json().catch(() => ({}));
-    localStorage.setItem("diraLastLicenseRequest", JSON.stringify(payload));
+    localStorage.setItem("bioxaLastLicenseRequest", JSON.stringify(payload));
     statusEl.textContent =
       result.message ||
       "License generated and emailed. Check your inbox for secure download links.";

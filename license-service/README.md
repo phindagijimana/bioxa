@@ -1,4 +1,4 @@
-# Dira License Service (No-Admin, Auto-Issue, Private Download Proxy)
+# Bioxa License Service (No-Admin, Auto-Issue, Private Download Proxy)
 
 This service receives landing-page form submissions, auto-generates a
 `license.txt`, emails it to the requester, and includes **time-limited secure
@@ -28,7 +28,7 @@ Request body:
   "email": "jane@example.org",
   "institution": "Example University",
   "purpose": "Clinical neuroimaging research workflows.",
-  "source": "dira-landing",
+  "source": "bioxa-landing",
   "submittedAt": "2026-03-13T05:00:00Z"
 }
 ```
@@ -82,7 +82,7 @@ commands targeting `license-service/`.
 3. Deploy and verify:
    - `GET https://<your-railway-domain>/health` returns `{"ok": true}`.
 4. Update landing endpoint config in `index.html`:
-   - set `window.DIRA_LICENSE_ENDPOINTS` to include your Railway URL
+   - set `window.BIOXA_LICENSE_ENDPOINTS` to include your Railway URL
      (`https://<your-railway-domain>/api/license/request`).
 
 ## Landing site integration
@@ -90,7 +90,7 @@ commands targeting `license-service/`.
 In `../js/script.js`, set:
 
 ```js
-window.DIRA_LICENSE_ENDPOINT = "https://<your-service-domain>/api/license/request";
+window.BIOXA_LICENSE_ENDPOINT = "https://<your-service-domain>/api/license/request";
 ```
 
 or change the constant directly.
