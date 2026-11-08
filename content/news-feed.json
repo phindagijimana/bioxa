@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T16:42:24Z",
+  "fetchedAt": "2026-11-08T16:52:41Z",
   "itemCount": 36,
   "items": [
     {
@@ -108,6 +108,13 @@
       "filter": "nih"
     },
     {
+      "title": "A multi-scale cell-type resolved map of trans-regulatory architecture in the aging human brain",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.05.26367384v1?rss=1",
+      "date": null,
+      "source": "medRxiv neurology",
+      "filter": "neurology"
+    },
+    {
       "title": "Circulating insulin-like growth factor 1 (IGF-1) and short-term functional change in amyotrophic lateral sclerosis (ALS): exploratory evidence for systemic trophic-metabolic reserve.",
       "url": "https://www.medrxiv.org/content/10.64898/2026.11.05.26366903v1?rss=1",
       "date": null,
@@ -178,6 +185,34 @@
       "filter": "neuroimaging"
     },
     {
+      "title": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995231/",
+      "date": "2026-11-01",
+      "source": "Nature Medicine",
+      "filter": "nature"
+    },
+    {
+      "title": "Opposing microbiome-mediated axes link modifiable lifestyles to health and chronic diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988934/",
+      "date": "2026-11-01",
+      "source": "Nature Medicine",
+      "filter": "nature"
+    },
+    {
+      "title": "Digital readiness for cardiovascular care in high-burden US communities with cardiology workforce constraints.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988365/",
+      "date": "2026-11-01",
+      "source": "Nature Medicine",
+      "filter": "nature"
+    },
+    {
+      "title": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42982997/",
+      "date": "2026-11-01",
+      "source": "Nature Medicine",
+      "filter": "nature"
+    },
+    {
       "title": "Epidermal Langerhans Cells Act as Neuroimmune Regulators of Pain and Itch",
       "url": "https://www.biorxiv.org/content/10.64898/2026.11.06.756111v1?rss=1",
       "date": null,
@@ -218,51 +253,8 @@
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
-    },
-    {
-      "title": "Seed Amplification Assay-Based Detection of Alpha-Synuclein Aggregates Outperforms Immunohistochemical Analysis in the Intestinal Mucosal Biopsies of Parkinson's Disease and Multiple System Atrophy Participants",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764662v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Phase-locked dual-band vibration bursts strengthen anti-kindling by vibrotactile coordinated reset stimulation in a spiking network model",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764557v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Deprivation of dietary fiber promotes low-grade neuroinflammation and anxiety-like behavior in mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764646v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Confidence: Its Measurement, Relation to Behavior, and Neural Representation",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764725v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Compositional computations in the primate frontal cortex",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764642v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
     }
   ],
-  "authorItems": [
-    {
-      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
-      "date": "2026-01-01",
-      "journal": "Brain communications",
-      "source": "PubMed"
-    }
-  ],
+  "authorItems": [],
   "live": true
 }
