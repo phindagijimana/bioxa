@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T18:39:26Z",
+  "fetchedAt": "2026-11-13T18:19:00Z",
   "itemCount": 36,
   "items": [
     {
@@ -10,11 +10,18 @@
       "filter": "neurology"
     },
     {
-      "title": "Differential effects of AMPA receptor inhibition on seizure-like events in murine and human brain slices",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765159v1?rss=1",
+      "title": "Unveiling Neuronal Microstructure in the Human Brain In Vivo With Time-Dependent Radial Diffusivity in a Head-Only High-Performance Gradient 3T MRI System.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43018127/",
+      "date": "2026-11-01",
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Sub-Threshold Stochastic Vibration Improves Fingertip Tactile Sensitivity in Stroke Survivors and Healthy Adults, with Source-Localized EEG Evidence for Cortical Network Reorganization in Healthy Adults",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.10.26367694v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Atrophy-related inflammation CSF markers predict clinical progression in genetic frontotemporal dementia",
@@ -38,60 +45,67 @@
       "filter": "neurology"
     },
     {
-      "title": "Same Movements, Different Skills: How Context Shapes Learning in Humans and Neural Networks",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.08.764653v1?rss=1",
+      "title": "Brain Stiffness Correlation Networks in Healthy Older Adults Using Magnetic Resonance Elastography.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010690/",
+      "date": "2026-11-01",
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "State-Dependent Stimulation for Seizure Termination in a Morris-Lecar Network: A Reinforcement Learning Approach",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765955v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Loss of GluN2A Selectively Impairs Excitatory Synaptic Integration in Hippocampal Somatostatin Interneurons",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.763692v1?rss=1",
+      "title": "Impaired cholinergic modulation of striatal spiny projection neurons in repetitive behaviors associated with TSHZ3-linked autism spectrum disorder",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766099v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Tri-Modal Single-Cell Atlas of Developing Human Brain",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765750v1?rss=1",
+      "title": "Single-nucleus RNA-seq atlas of 5xFAD mouse brain maps cell-type-specific transcriptional disruption and preferential rolipram rescue in VIP interneurons",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765944v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Distinct input-output relationships between basal forebrain subnuclei underlie heterogeneous cholinergic modulation of the mouse cortex",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765460v1?rss=1",
+      "title": "Probabilistic mapping of brain connections without random sampling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766276v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Transcriptional and DNA Methylation Changes in the Hippocampus and Prefrontal Cortex after Fractionated Cranial Radiation in Mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765716v1?rss=1",
+      "title": "State-dependent structure-function coupling reflects dynamic engagement of the brain's structural scaffold",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766152v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "A protocol for cortical and deep-brain calcium imaging in freely moving mice with the Mini2P system.",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.09.764980v1?rss=1",
+      "title": "Development of direction selectivity in the Xenopus tadpole optic tectum and midbrain tegmentum",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765692v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Maternal E-Cigarette Exposure Exacerbates Neonatal Ischemic Brain Injury Through the miR-30c-5p-Neurod1 Axis",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765511v1?rss=1",
+      "title": "A Multi-Cohort nnU-Net for White Matter Hyperintensity Segmentation Across 2D and 3D FLAIR Acquisitions",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.11.26367656v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "Exploring subacute effects of a DMT and harmine meditation retreat on the brain's control energy landscape",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.07.764538v1?rss=1",
+      "title": "Longitudinal Cerebrospinal Fluid Biomarker Changes Following Shunt Surgery in Idiopathic Normal Pressure Hydrocephalus - Insights from the Gothenburg POiNT study",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.11.26366969v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Serum brain-derived tau distinguishes acute neurotrauma diagnoses",
@@ -136,120 +150,106 @@
       "filter": "neurology"
     },
     {
-      "title": "Divergent Causes of Death After Ischemic and Hemorrhagic Stroke in the Reperfusion Era: A Contemporary Cohort Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.03.26367230v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Advancing multimodal tools to decode organoid complexity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015454/",
+      "title": "Variability, but Not Concentration, of Neuromelanin in the Substantia Nigra Is Associated With Individual Differences in Interference Control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004822/",
       "date": "2026-11-01",
-      "source": "Nature Methods",
-      "filter": "nature"
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
     },
     {
-      "title": "In situ profiling of plasma cell clonality with image-based single-cell transcriptomics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009623/",
+      "title": "Association of Perivascular Space Volume in Basal Ganglia Subfields With Cognitive Impairment in Cerebral Small Vessel Disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001682/",
       "date": "2026-11-01",
-      "source": "Nature Methods",
-      "filter": "nature"
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
     },
     {
-      "title": "High school science ambitions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003956/",
-      "date": "2026-11-01",
-      "source": "Nature Methods",
-      "filter": "nature"
-    },
-    {
-      "title": "Deciphering the gene-centric spatial dynamics across tissue and time with GeneSPOT.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003955/",
-      "date": "2026-11-01",
-      "source": "Nature Methods",
-      "filter": "nature"
-    },
-    {
-      "title": "An AAV model of tauopathy targeting the mouse dentate gyrus reveals greater trans-synaptic tau spreading with aggregation-prone tau variants",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.09.762480v1?rss=1",
+      "title": "Combining non-linear and spectral cardiac variability metrics differentiates rat alcohol drinking with and without challenge",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765942v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Sleep promotes neuronal autophagy for intracellular clearance",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.08.764098v1?rss=1",
+      "title": "Direction of oscillatory networks in the human medial temporal lobe reverses across verbal working memory phases",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765952v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "The extended default mode network dysconnectivity in schizophrenia",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765658v1?rss=1",
+      "title": "Daily light exposure differences between extreme chronotypes persist after alignment to habitual sleep timing",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765960v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "The Computational Grammar of Human Behaviour in a Biological Environment",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765265v1?rss=1",
+      "title": "The Xist locus on the X chromosome of males regulates cognition and metabolism despite minimal expression",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766005v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Sentence-level neural dynamics in speech motor cortex",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765804v1?rss=1",
+      "title": "Excitatory neurons downregulate synaptic proteins before motor onset and glia reduce neuronal support in Huntington disease mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766120v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Postpartum resource scarcity reshapes maternal care, offspring prioritization, and the steroid-sensitive medial preoptic area",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765420v1?rss=1",
+      "title": "Identifying aligned tensor decompositions across heterogeneous neural datasets",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766278v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "How striatal neurons influence decision-making depends on broader circuit context: evidence from theory-driven cell type identification",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765679v1?rss=1",
+      "title": "Neural and Experiential Dynamics of High-Ventilation Breathwork Mirror Psychedelic States",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765965v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Alpha-beta oscillatory dynamics underlying auditory inhibitory control in children",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765597v1?rss=1",
+      "title": "Single-Session HRV Biofeedback Alters Neural Activity but Not Subjective Anxiety",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765768v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "A novel behavioral paradigm for characterizing anticipatory postural adjustments in mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765800v1?rss=1",
+      "title": "Mitochondrial dysfunction activates a translational stress response that drives diabetic pain",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765941v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Hyperglycemia-responsive circRNA drives diabetic neuropathic pain by competing for PUM2 binding and promoting proNT3/CCL2 in DRG neurons",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765753v1?rss=1",
+      "title": "Aging limits the reduction of reactive muscle activity to perturbations but spares the retrieval of context-specific patterns with practice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766012v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Learned associations constrain anticipatory visual dynamics and enhance sensory and motor readiness to facilitate perceptual decisions",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765786v1?rss=1",
+      "title": "A Dual Effort Choice paradigm reveals pharmacological divergence between intrinsic and extrinsic motivation within the same task environment",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766115v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Advanced meditation stabilizes cortical dynamics through inhibitory gain control linked to absorptive depth",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765124v1?rss=1",
+      "title": "Dopamine reward prediction error signal encodes effort cost as negative reward value",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765978v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Functional mapping of synaptotagmin 1 Ca2+ ligands that mediate excitation-secretion coupling in neurons",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766256v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
