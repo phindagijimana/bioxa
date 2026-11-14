@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T18:19:00Z",
+  "fetchedAt": "2026-11-14T16:48:17Z",
   "itemCount": 36,
   "items": [
     {
@@ -10,11 +10,18 @@
       "filter": "neurology"
     },
     {
-      "title": "Unveiling Neuronal Microstructure in the Human Brain In Vivo With Time-Dependent Radial Diffusivity in a Head-Only High-Performance Gradient 3T MRI System.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43018127/",
-      "date": "2026-11-01",
-      "source": "Human Brain Mapping",
-      "filter": "neuroimaging"
+      "title": "Repeated self-administered EEG recordings enable longitudinal measurement of brain activity at home",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766143v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Unraveling the Lifespan Trajectory of White Matter Hypointensity on T1-weighted MR Images and Clinical Application in Various Brain Disorders",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.12.26367778v1?rss=1",
+      "date": null,
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Sub-Threshold Stochastic Vibration Improves Fingertip Tactile Sensitivity in Stroke Survivors and Healthy Adults, with Source-Localized EEG Evidence for Cortical Network Reorganization in Healthy Adults",
@@ -45,11 +52,46 @@
       "filter": "neurology"
     },
     {
-      "title": "Brain Stiffness Correlation Networks in Healthy Older Adults Using Magnetic Resonance Elastography.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010690/",
-      "date": "2026-11-01",
-      "source": "Human Brain Mapping",
-      "filter": "neuroimaging"
+      "title": "Microglial Stim1/Stim2 deletion reduces calcium signaling but promotes infarct expansion after ischemic stroke",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766275v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Inactivation of tissue-nonspecific alkaline phosphatase reduces phosphatidylcholine amounts in the brain of infant mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766160v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Nucleus reuniens gates selective hippocampal-prefrontal interactions during NREM sleep",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765971v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Electrophysiology of multisite direct electrical stimulation in the human brain",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765993v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Selective ultrasonic suppression of pathological brain hyperactivity via an endogenous CAV3-NCX1 axis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765847v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Non-invasive temporal interference stimulation targeting the hippocampus enhances fast motor memory consolidation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766003v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
       "title": "State-Dependent Stimulation for Seizure Termination in a Morris-Lecar Network: A Reinforcement Learning Approach",
@@ -87,11 +129,11 @@
       "filter": "nih"
     },
     {
-      "title": "Development of direction selectivity in the Xenopus tadpole optic tectum and midbrain tegmentum",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765692v1?rss=1",
+      "title": "DxToniaNet: A Neural Network for Estimating the Severity of Leg Dystonia in Children with Cerebral Palsy",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.11.26367859v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "A Multi-Cohort nnU-Net for White Matter Hyperintensity Segmentation Across 2D and 3D FLAIR Acquisitions",
@@ -136,32 +178,53 @@
       "filter": "neurology"
     },
     {
-      "title": "Circulating insulin-like growth factor 1 (IGF-1) and short-term functional change in amyotrophic lateral sclerosis (ALS): exploratory evidence for systemic trophic-metabolic reserve.",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.05.26366903v1?rss=1",
+      "title": "Amyloidosis and tauopathy progressively disrupt near-critical dynamics in selectively vulnerable circuits",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766020v1?rss=1",
       "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
-      "title": "Electric and Magnetic Source Imaging in Epilepsy: Anatomical Insights from Realistic Simulations",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.06.26367214v1?rss=1",
+      "title": "Satellite glial translatome reprograms to favor mitochondrial and vesicular signaling under pelvic pain conditions",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766000v1?rss=1",
       "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
-      "title": "Variability, but Not Concentration, of Neuromelanin in the Substantia Nigra Is Associated With Individual Differences in Interference Control.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004822/",
-      "date": "2026-11-01",
-      "source": "Human Brain Mapping",
-      "filter": "neuroimaging"
+      "title": "A Variational Principle for the Emergence of Neural Geometry Underlying Bayesian-Like Behavior",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765947v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
-      "title": "Association of Perivascular Space Volume in Basal Ganglia Subfields With Cognitive Impairment in Cerebral Small Vessel Disease.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001682/",
-      "date": "2026-11-01",
-      "source": "Human Brain Mapping",
-      "filter": "neuroimaging"
+      "title": "Zdhhc17/Hip14 functions in neurons to control behavior via DHHC-dependent and independent mechanisms",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766291v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Neural dynamics track the approach to physical exhaustion",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766118v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Neuronal Aralar/AGC1 deficiency impairs social behavior through dopaminergic and redox dysfunction and is rescued by β-hydroxybutyrate",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766132v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "TRACE: Trajectory Reconstruction and Clustering From Sparse Evidence For Disease Subtyping and Staging",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765968v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
       "title": "Combining non-linear and spectral cardiac variability metrics differentiates rat alcohol drinking with and without challenge",
@@ -187,69 +250,6 @@
     {
       "title": "The Xist locus on the X chromosome of males regulates cognition and metabolism despite minimal expression",
       "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766005v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Excitatory neurons downregulate synaptic proteins before motor onset and glia reduce neuronal support in Huntington disease mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766120v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Identifying aligned tensor decompositions across heterogeneous neural datasets",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766278v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Neural and Experiential Dynamics of High-Ventilation Breathwork Mirror Psychedelic States",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765965v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Single-Session HRV Biofeedback Alters Neural Activity but Not Subjective Anxiety",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765768v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Mitochondrial dysfunction activates a translational stress response that drives diabetic pain",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765941v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Aging limits the reduction of reactive muscle activity to perturbations but spares the retrieval of context-specific patterns with practice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766012v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "A Dual Effort Choice paradigm reveals pharmacological divergence between intrinsic and extrinsic motivation within the same task environment",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766115v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Dopamine reward prediction error signal encodes effort cost as negative reward value",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765978v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Functional mapping of synaptotagmin 1 Ca2+ ligands that mediate excitation-secretion coupling in neurons",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766256v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
