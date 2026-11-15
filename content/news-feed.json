@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T16:48:17Z",
+  "fetchedAt": "2026-11-15T17:30:47Z",
   "itemCount": 36,
   "items": [
     {
@@ -50,6 +50,27 @@
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
+    },
+    {
+      "title": "Associations of screen time, physical activity and neuromuscular fitness with brain structure in adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032778/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Superpixel-ComBat multi-site harmonization of unpaired T1W MRI data in Huntington's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017454/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Complex Spatial and Temporal Organization of Functional Brain Networks",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766207v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     },
     {
       "title": "Microglial Stim1/Stim2 deletion reduces calcium signaling but promotes infarct expansion after ischemic stroke",
@@ -178,6 +199,20 @@
       "filter": "neurology"
     },
     {
+      "title": "Direction-specific effects of biphasic transcranial magnetic stimulation on cortical and cortico-spinal excitability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034647/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Surface-based cortical morphometry in fibromyalgia reveals left temporal lobe thinning and dissociated thickness-area patterns: a FreeSurfer replication and extension study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032796/",
+      "date": "2026-12-01",
+      "source": "NeuroImage",
+      "filter": "neuroimaging"
+    },
+    {
       "title": "Amyloidosis and tauopathy progressively disrupt near-critical dynamics in selectively vulnerable circuits",
       "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766020v1?rss=1",
       "date": null,
@@ -218,43 +253,16 @@
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
-    },
-    {
-      "title": "TRACE: Trajectory Reconstruction and Clustering From Sparse Evidence For Disease Subtyping and Staging",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765968v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Combining non-linear and spectral cardiac variability metrics differentiates rat alcohol drinking with and without challenge",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765942v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Direction of oscillatory networks in the human medial temporal lobe reverses across verbal working memory phases",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765952v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Daily light exposure differences between extreme chronotypes persist after alignment to habitual sleep timing",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765960v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "The Xist locus on the X chromosome of males regulates cognition and metabolism despite minimal expression",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.11.766005v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
     }
   ],
-  "authorItems": [],
+  "authorItems": [
+    {
+      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
+      "date": "2026-01-01",
+      "journal": "Brain communications",
+      "source": "PubMed"
+    }
+  ],
   "live": true
 }
