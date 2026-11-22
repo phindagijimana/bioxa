@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T17:50:37Z",
+  "fetchedAt": "2026-11-22T18:10:08Z",
   "itemCount": 36,
   "items": [
     {
@@ -15,20 +15,6 @@
       "date": "2026-12-01",
       "source": "Human Brain Mapping",
       "filter": "neuroimaging"
-    },
-    {
-      "title": "Large Language Models in Clinical Neurology: A Scoping Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056665/",
-      "date": "2027-02-01",
-      "source": "Neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Quantifying Disease Progression in Patients With Charcot-Marie-Tooth Neuropathy Type 1A Using Quantitative Muscle MRI and Clinical Outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056664/",
-      "date": "2026-12-01",
-      "source": "Neurology",
-      "filter": "neurology"
     },
     {
       "title": "Electrophysiological \"Brain Power\" Dissipation: MEG Model-Dependent Power Estimates and Regional Metabolic Correlates.",
@@ -94,6 +80,13 @@
       "filter": "neurology"
     },
     {
+      "title": "Astrocyte-secreted Cathepsin D regulates hippocampal memory through extracellular matrix remodeling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768232v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
       "title": "NOTCH3 p.R544C Drives Early Neurovascular Unit Dysfunction through Blood-Brain Barrier Failure, Complement Signalling and Metabolic Dysregulation",
       "url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767474v1?rss=1",
       "date": null,
@@ -131,13 +124,6 @@
     {
       "title": "5-HT2A receptor deletion is associated with reduced hippocampal parvalbumin levels and anxiety-like behavior in BALB/c mice",
       "url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767898v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "A CT-to-brain-atlas mapping framework using cranial base landmarks in marmosets",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767736v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
@@ -241,28 +227,34 @@
       "filter": "neurology"
     },
     {
-      "title": "Risk of Idiopathic Intracranial Hypertension Following Anemia in Young Adults: A Retrospective Cohort TriNetX Database Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056663/",
+      "title": "Neurotransmitter and Transcriptomic Basis of Gray Matter Volume Abnormalities in Alzheimer's Disease: A Meta-Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049552/",
       "date": "2026-12-01",
-      "source": "Neurology",
-      "filter": "neurology"
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
     },
     {
-      "title": "Teaching Video NeuroImage: Female Presentation of Fragile X-Associated Tremor/Ataxia Syndrome.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056662/",
-      "date": "2026-12-01",
-      "source": "Neurology",
-      "filter": "neurology"
-    }
-  ],
-  "authorItems": [
+      "title": "Unexpected Long Range Actions of AAV8",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.20.767967v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
     {
-      "title": "MRI derived hippocampal asymmetry identifies hippocampal sclerosis in epilepsy surgical specimens.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42676852/",
-      "date": "2026-01-01",
-      "journal": "Brain communications",
-      "source": "PubMed"
+      "title": "Neural competition predicts speech production advantages in congenital amusia",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767958v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Microglia and microglia activation are protective in an LSD1-induced model of neurodegeneration",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767896v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
     }
   ],
+  "authorItems": [],
   "live": true
 }
