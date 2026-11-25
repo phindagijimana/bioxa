@@ -1,34 +1,69 @@
 {
-  "fetchedAt": "2026-11-24T20:57:15Z",
+  "fetchedAt": "2026-11-25T20:19:11Z",
   "itemCount": 36,
   "items": [
     {
-      "title": "Target- and network-specific downstream effects of personalized precision transcranial magnetic stimulation: Evidence from concurrent functional neuroimaging",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765235v1?rss=1",
+      "title": "Addressing Inconsistency in Functional Neuroimaging: A Replicable Data-Driven Multi-Scale Functional Atlas for Canonical Brain Networks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064668/",
+      "date": "2026-12-01",
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Explainable Deep Learning Maps Age-Dependent Differences Between Alzheimer's Disease and Healthy Brain Aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080091/",
+      "date": "2026-12-01",
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Whole-Brain Cell-Cell Interaction Axes Explaining Tissue Vulnerability Across the Neurodegenerative Spectrum.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078795/",
+      "date": "2026-12-01",
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Discovery of latent clinical phenotypes through optimal transport of brain dynamics",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766403v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Sympathetic-to-microglia readouts in human brain single-nucleus data: sparse adrenergic receptor detection and age-associated homeostatic-to-inflammatory shifts in hippocampal microglia",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.14.765300v1?rss=1",
+      "title": "Excitation/Inhibition Balance in People at Clinical High Risk for Psychosis: A Functional MRI Study",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768831v1?rss=1",
       "date": null,
       "source": "bioRxiv neuroscience",
       "filter": "nih"
     },
     {
-      "title": "Modified Synchronization Modulation Electric Field attenuates acute brain injury and improves neurological outcomes following stroke induced by transient middle cerebral artery occlusion in rats",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768295v1?rss=1",
+      "title": "Integrating Plasma Brain-Derived pTau217, White Matter Hyperintensity and Hippocampal Volumes as Optimized Prognostic Markers for Cognitive Decline in an Asian Cohort with High Cerebrovascular Disease Burden",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368742v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "NeuroMetaBench: Expert-curated benchmark for evaluating automated neuroimaging meta-analysis",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768226v1?rss=1",
+      "title": "APOE ϵ4 Effects on Cognitive Decline and Progression to Dementia are Sequentially Mediated through Plasma P-tau217 and Hippocampal Atrophy in an Asian Cohort",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.22.26368713v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
+    },
+    {
+      "title": "Automated Classification of Clinical EEG Reports as Normal or Pathological Using Natural Language Processing: A Multi-Centre Study",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368771v1?rss=1",
+      "date": null,
+      "source": "medRxiv neurology",
+      "filter": "neurology"
+    },
+    {
+      "title": "Hypothesis-Driven Thalamic Stereo-EEG Informs Surgical Therapy for Drug-Resistant Epilepsy: Outcomes in 117 Consecutive Patients",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368733v1?rss=1",
+      "date": null,
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "Disease-specific versus symptom-specific neuroimaging phenotypes across Alzheimer's Disease, Parkinson's Disease, and Small Vessel Disease",
@@ -59,53 +94,102 @@
       "filter": "neurology"
     },
     {
-      "title": "Plasma neurodegeneration biomarkers and clinical progression in early sporadic Parkinson's disease",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368420v1?rss=1",
+      "title": "A Data-Driven Method to Map the Functional Organisation of Human Brain White Matter.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079184/",
+      "date": "2026-12-01",
+      "source": "Human Brain Mapping",
+      "filter": "neuroimaging"
+    },
+    {
+      "title": "Sleep EEG distinguishes learned from novel auditory cues without predicting memory retention in a targeted memory reactivation study",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766368v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Does Denoising Reduce Cross-Vendor Variability in Diffusion MRI? A Travelling Heads Evaluation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768556v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Benchmarking machine learning across development reveals stage-specific neuroanatomical sex signatures.",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768941v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Joint Representation of Valence and Arousal in the Human Brain",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768770v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "A Platform for Semi-automatic Segmentation, CharacteristicShape Analysis and Simulation of Neuronal Nuclei",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768886v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "An Open, Evolving Brain and Cognitive Aging Simulator Enabled by Agentic Artificial Intelligence",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769018v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Reciprocal 16p11.2 Copy Number Variants Differentially Alter Regional Brain Anatomy and Allometric Scaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768986v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Multicellular nodules form at subacute time points following closed-head diffuse traumatic brain injury in pigs",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768113v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Brain pericyte lineages converge on a shared molecular profile",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768980v1?rss=1",
+      "date": null,
+      "source": "bioRxiv neuroscience",
+      "filter": "nih"
+    },
+    {
+      "title": "Continuous at-home wearables and machine learning sensitively track function and progression in pediatric and adult Friedreich's ataxia",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368776v1?rss=1",
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
     },
     {
-      "title": "A report-supervised EEG-language foundation model enables broad, interactive clinical interpretation",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368408v1?rss=1",
+      "title": "Ecological characterisation of frequency-domain local field potential biomarkers in essential tremor.",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.25.26368820v1?rss=1",
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
     },
     {
-      "title": "Sex differences in the effects of enhanced adult hippocampal neurogenesis on pattern discrimination and Intellicage spatial learning in Bax-knockout mice",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768231v1?rss=1",
+      "title": "Nigral volume as a marker for Lewy body copathology in Alzheimer's disease",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368759v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
-      "title": "Being Born versus Being Born Early: Disentangling Birth from Prematurity in Perinatal Brain Development",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768316v1?rss=1",
+      "title": "Chronic pain and cognitive performance in dementia caregivers: Insights from the STELLA and DETECT-AD studies",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368703v1?rss=1",
       "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Brain cycle flexibility and behavioral association",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768360v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Feature processing for single-trial semantic decoding from EEG: a factorial comparison with pre-registered replication",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768234v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Tensor decomposition for data-driven analysis of OP-MEG: a feasibility study",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.20.766579v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
+      "source": "medRxiv neurology",
+      "filter": "neurology"
     },
     {
       "title": "At-home ankle and wrist accelerometry and machine learning capture motor impairment and disease progression in ataxia-telangiectasia",
@@ -169,90 +253,6 @@
       "date": null,
       "source": "medRxiv neurology",
       "filter": "neurology"
-    },
-    {
-      "title": "Amyotrophic lateral sclerosis progression is tracked in plasma by systemic proteins independent of motor neurons",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368153v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "ProbeFit: one-seizure qualification and personalisation of multimodal wearable seizure detectors",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.17.26368305v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Distinct Relaxation Kurtosis Imaging-Derived White Matter Microstructural Phenotypes Tracking Alzheimer's Disease Pathology and Cognitive Decline",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.17.26368344v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Modifiable and Context-Specific Factors Associated with Dementia in the Democratic Republic of the Congo: A Community-Derived Cross-Sectional Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.16.26368211v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Evaluating the Clinical Utility of a Brief Remote Speech Assessment for Screening and Triage of Speech Disorders",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.16.26368191v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Adverse Events and Baseline Psychological Distress Among Dementia Family Care Partners in the Tele-STELLA Study",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.11.16.26368229v1?rss=1",
-      "date": null,
-      "source": "medRxiv neurology",
-      "filter": "neurology"
-    },
-    {
-      "title": "Hierarchical control of visual perceptual learning with model-synthesized stimuli",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768712v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Correction for age-appropriate relaxation reference values alters estimates of neurometabolite concentration, but not age relationships",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768649v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "An information theoretic approach to evaluating social behaviour in mice using automated home-cage monitoring",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.23.767392v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Transcranial temporal interference stimulation increases slow waves during human NREM sleep",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768349v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Cognitive Load modulates the exploration-exploitation trade-off Through Reconfiguration of an IPS-Centered Decision Network",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768355v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
-    },
-    {
-      "title": "Shared and context-dependent cortico-striatal-cerebellar organization of temporal prediction",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768330v1?rss=1",
-      "date": null,
-      "source": "bioRxiv neuroscience",
-      "filter": "nih"
     }
   ],
   "authorItems": [],
